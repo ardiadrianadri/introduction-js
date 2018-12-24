@@ -1,1 +1,1 @@
-// Code a program to get a list with the 20 first prime numbers
+// Code a program to get a list with the 20 first pair numbers
