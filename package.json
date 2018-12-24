@@ -1,0 +1,24 @@
+{
+  "name": "introduction-js",
+  "version": "1.0.0",
+  "description": "Exercises for the workshop of introduction JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardiadrianadri/introduction-js.git"
+  },
+  "keywords": [
+    "workshop",
+    "javascript",
+    "es6"
+  ],
+  "author": "Adrian Ferreres Esteller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardiadrianadri/introduction-js/issues"
+  },
+  "homepage": "https://github.com/ardiadrianadri/introduction-js#readme"
+}
